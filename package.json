@@ -1,0 +1,7 @@
+{
+  "name" : "bandsintown_past",
+  "version": "1.0",
+  "main": "bandsintown_past.js",
+  "style" : "*.scss",
+  "transforms" : [ "sass-css-stream" ]
+}
